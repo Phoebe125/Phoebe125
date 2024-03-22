@@ -5,8 +5,6 @@
 
 <h3 align="center">📻 SNS list 📻</h3>
 <div align="center">
-📧 Email: ted9988sm9988@gmail.com<br>
-📞 Phone: 010-4767-5793<br>
 👨🏿‍🤝‍👨🏿 LinkedIn: <a href="https://www.linkedin.com/in/%EC%84%A0%EB%AF%BC-%EC%9D%B4-8909731a3/">[링크드인프로필]</a>
 <a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f">[노션 링크]</a>
 </div><br>
