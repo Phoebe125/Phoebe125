@@ -8,17 +8,17 @@
 📧 Email: ted9988sm9988@gmail.com<br>
 📞 Phone: 010-4767-5793<br>
 👨🏿‍🤝‍👨🏿 LinkedIn: <a href="https://www.linkedin.com/in/%EC%84%A0%EB%AF%BC-%EC%9D%B4-8909731a3/">[링크드인프로필]</a>
+<a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f">[노션 링크]</a>
 </div><br>
 
 <h3 align="center"> 🌟 Experiences 🌟 </h3>
 <div align="center"> 
-<a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f">[노션 링크]</a>
 <h3>금융</h3>
 <h4>스탁워즈 (2019.03 ~ 2022.06)</h4>: 가치투자 동아리, 리서치 팀원 및 팀장<br>
 <h4>Quant Lab (2022.07 ~ 2022.12)</h4>: 채권 유동성과 수익률 분석 <a href="https://drive.google.com/drive/folders/1jZ2wWcOq0DcYklwVYV-02PJg_6hqMk0U?usp=drive_link">[구글드라이브 링크]</a><br>
 <h4>ABL 생명보험 (2023.01 ~ 2023.02)</h4>: 리스크관리부 인턴 (ESG 생성업무)<br>
 <h4>유피아 (2022.01 ~ 2023.06)</h4>: 금융공학 학회<br>
-<h3>개발</h3>
+<h3> IT </h3>
 <h4>퀀팃 (2023.06.26 ~ 2023.12.31)</h4>: 기술연구소 인턴 (ETL 업무 및 ETF 챗봇 POC)<br>
 <a href="https://twitter.com/etfbullvibes">[트위터 링크]</a> <a href="https://discord.gg/JyfGuKCJG5">[디스코드 서버 링크]</a><br>
 <h4>피로그래밍 (2024.01 ~ )</h4>: 웹 개발 동아리<br>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/><br>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"/>
