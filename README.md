@@ -1,3 +1,4 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /></div>
 <h3 align="center">✋ Intoduction ✋</h3>
 <div align="center">안녕하세요!
 금융과 개발에 관심이 있는 이선민입니다!😋 </div><br>
@@ -47,3 +48,4 @@
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=phoebe125)](https://solved.ac/phoebe125)
 </div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /></div>
