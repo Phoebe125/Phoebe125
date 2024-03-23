@@ -1,29 +1,39 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /></div>
-<h3 align="center">✋ Intoduction ✋</h3>
-<div align="center">안녕하세요!
-금융과 개발에 관심이 있는 이선민입니다!😋 </div><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=150&section=header" />
 
-<h3 align="center">📻 SNS list 📻</h3>
-<div align="center">
-👨🏿‍🤝‍👨🏿 LinkedIn: <a href="https://www.linkedin.com/in/%EC%84%A0%EB%AF%BC-%EC%9D%B4-8909731a3/">[링크드인프로필]</a>
-<a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f">[노션 링크]</a>
-</div><br>
+### ✋Introduction 
 
-<h3 align="center"> 🌟 Experiences 🌟 </h3>
-<div align="center"> 
-<h3>금융</h3>
-<h4>스탁워즈 (2019.03 ~ 2022.06)</h4>: 가치투자 동아리, 리서치 팀원 및 팀장<br>
-<h4>Quant Lab (2022.07 ~ 2022.12)</h4>: 채권 유동성과 수익률 분석 <a href="https://drive.google.com/drive/folders/1jZ2wWcOq0DcYklwVYV-02PJg_6hqMk0U?usp=drive_link">[구글드라이브 링크]</a><br>
-<h4>ABL 생명보험 (2023.01 ~ 2023.02)</h4>: 리스크관리부 인턴 (ESG 생성업무)<br>
-<h4>유피아 (2022.01 ~ 2023.06)</h4>: 금융공학 학회<br>
-<h3> IT </h3>
-<h4>퀀팃 (2023.06.26 ~ 2023.12.31)</h4>: 기술연구소 인턴 (ETL 업무 및 ETF 챗봇 POC)<br>
-<a href="https://twitter.com/etfbullvibes">[트위터 링크]</a> <a href="https://discord.gg/JyfGuKCJG5">[디스코드 서버 링크]</a><br>
-<h4>피로그래밍 (2024.01 ~ )</h4>: 웹 개발 동아리<br>
-<h4>신한투자증권 프로디지털아카데미 4기 (2024.03 ~ )</h4>
-</div><br>
-<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
-<div align="center">
+안녕하세요! <br>
+금융과 개발에 관심이 있는 이선민입니다!😋 <br>
+포트폴리오: <a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f">[노션 링크]</a>
+<br>
+
+### 🙋‍♀️ About Me
+
+◼ Supporter <br>
+◼ "낭만"을 함께 추구하는 개발자 <br>
+◼ NO Free Lunch <br>
+
+### 🎓 Education
+
+| Date |     Contents 	|    Organizaion |
+|-------|:----------:|:-----------:|
+| `2019.03.` ~ `2024.08.` 	| 한양대학교 경제금융학부, 컴퓨터소프트웨어학부 | 한양대학교  |
+| `2024.03.` ~ `2024.06.` 	| 신한투자증권 프로 디지털 아카데미 4기 | 신한투자증권  |
+
+### ✨ Experience
+
+| Date |     Contents 	|    Organizaion |
+|-------|:----------:|:-----------:|
+| `2019.03.` ~ `2022.06.` 	| 가치투자 동아리 | 스탁워즈  |
+| `2022.01.` ~ `2023.06.` 	| 금융공학 학회 | 유피아 (U.FE.A)  |
+| `2022.06.` ~ `2022.08.` 	| 개인화 전략을 활용한 서비스 제안 | FSI data Challenge  |
+| `2022.07.` ~ `2022.12.` 	| 채권 유동성과 수익률 분석 | 한양대학교 Quant Lab  |
+| `2023.01.` ~ `2023.02.` 	| 리스크관리부 인턴 | ABL 생명보험  |
+| `2023.06.` ~ `2023.12.` 	| 기술 연구소 인턴 | 퀀팃  |
+| `2024.01.` ~ `2024.02.` 	| 웹 개발 동아리 | 피로그래밍  |
+
+### 🛠 Tech Stack
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/>
@@ -33,17 +43,13 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF"/>
-</div><br>
+<br>
 
-<h3 align="center">📂 Github Status 📂</h3> 
-<div align="center">
-  
+
+### 📕 Github Status & BOJ
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoebe125&show_icons=true&theme=discord_old_blurple)
-</div><br>
-
-<h3 align="center"> 📕 BOJ 📕 </h3>
-<div align="center"><br>
-  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=phoebe125)](https://solved.ac/phoebe125)
-</div>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /></div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=150&section=footer" />
