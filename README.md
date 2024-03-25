@@ -4,7 +4,7 @@
 
 안녕하세요! <br>
 금융과 개발에 관심이 있는 이선민입니다!😋 <br>
-포트폴리오: <a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f">[노션 링크]</a>
+포트폴리오: <a href="https://www.notion.so/Sunmin-Lee-cde0760f1c2e4b4a9d5f62b52d775f7f" style="color:green">[노션 링크]</a>
 <br>
 
 ### 🙋‍♀️ About Me
